@@ -3,7 +3,7 @@
     "header": {
         "description": "§aMy custom Record! By §uVllgrGaming",
         "name": "§aMy custom music disc",
-        "uuid": "c4c8a4c2-b49b-434f-a3e6-1e437690f653",
+        "uuid": "dac48c25-3fe2-421d-a617-d025032999fb",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 19, 80 ]
     },
@@ -11,7 +11,7 @@
         {
             "description": "§aMy custom Record! By §uVllgrGaming",
             "type": "resources",
-            "uuid": "99ba63ad-2cfc-4761-ba41-1eef22fb92b3",
+            "uuid": "19907be2-f85d-4ec6-ba71-4baac2cbb5dd",
             "version": [0, 0, 1]
         }
     ]
