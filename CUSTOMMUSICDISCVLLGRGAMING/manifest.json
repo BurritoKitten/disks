@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§aMy custom Record! By §uVllgrGaming",
+        "name": "§aMy custom music disc",
+        "uuid": "c4c8a4c2-b49b-434f-a3e6-1e437690f653",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 80 ]
+    },
+    "modules": [
+        {
+            "description": "§aMy custom Record! By §uVllgrGaming",
+            "type": "resources",
+            "uuid": "99ba63ad-2cfc-4761-ba41-1eef22fb92b3",
+            "version": [0, 0, 1]
+        }
+    ]
+}
